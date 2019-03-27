@@ -1,0 +1,87 @@
+.navbar {
+    background-color: #1D1C25; 
+}
+.background{
+    background-image: url("/assets/nature_waterfall.gif");
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    width: auto;
+}
+
+h1 {
+    color: #1d1c25;
+    text-align: center;
+}
+
+p {
+    color:  #1d1c25 !important;
+    font-size: 15px;
+}
+
+a{
+    float: right;
+}
+
+h4{
+    color: #1d1c25;
+}
+
+#github {
+    height: 35px;
+    width: 35px;
+    border-radius: 90px;
+    text-align:center;
+}
+
+#linkedin{
+    height: 35px;
+    width: 35px;
+    border-radius: 90px;
+}
+#git{
+    height: 60px;
+    width: 60px;
+}
+#bootstrap{
+    height: 60px;
+    width: 60px;
+}
+#html{
+    height: 60px;
+    width: 60px;
+}
+#python{
+    height: 60px;
+    width: 60px;
+}
+#vscode{
+    height: 60px;
+    width: 60px;
+}
+#css {
+    height: 60px;
+    width: 60px;
+}
+#django {
+    height: 60px;
+    width: 60px;
+}
+#ubuntu {
+    height: 60px;
+    width: 60px;
+}
+#windows {
+    height: 60px;
+    width: 60px;
+}
+#gitHub{
+    height: 60px;
+    width: 60px;
+}
+
+#twitter{
+    height: 35px;
+    width: 35px;
+    border-radius: 90px;
+}
