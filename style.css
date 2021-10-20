@@ -34,48 +34,48 @@ h4{
     text-align:center;
 }
 
-#linkedin{
+#linkedin {
     height: 35px;
     width: 35px;
     border-radius: 90px;
 }
-#git{
+#git {
     height: 60px;
     width: 60px;
 }
-#bootstrap{
+#bootstrap {
     height: 60px;
     width: 60px;
 }
-#azure{
+#azure {
     height: 60px;
     width: 60px;
 }
-#sql{
+#sql {
     height: 60px;
     width: 60px;
 }
-#ssms{
+#ssms {
     height: 60px;
     width: 60px;
 }
-#cSharp{
+#cSharp {
     height: 60px;
     width: 60px;
 }
-#net{
+#net {
     height: 60px;
     width: 60px;
 }
-#html{
+#html {
     height: 60px;
     width: 60px;
 }
-#python{
+#python {
     height: 60px;
     width: 60px;
 }
-#vscode{
+#vscode {
     height: 60px;
     width: 60px;
 }
@@ -84,10 +84,6 @@ h4{
     width: 60px;
 }
 #django {
-    height: 60px;
-    width: 60px;
-}
-#ubuntu {
     height: 60px;
     width: 60px;
 }
