@@ -2,7 +2,7 @@
     background-color: #1D1C25; 
 }
 .background{
-    background-image: url("/assets/nature_waterfall.gif");
+    background-image: url("/assets/chalk.jpg");
     background-position: center;
     background-size: cover;
     height: auto;
@@ -44,6 +44,26 @@ h4{
     width: 60px;
 }
 #bootstrap{
+    height: 60px;
+    width: 60px;
+}
+#azure{
+    height: 60px;
+    width: 60px;
+}
+#sql{
+    height: 60px;
+    width: 60px;
+}
+#ssms{
+    height: 60px;
+    width: 60px;
+}
+#cSharp{
+    height: 60px;
+    width: 60px;
+}
+#net{
     height: 60px;
     width: 60px;
 }
